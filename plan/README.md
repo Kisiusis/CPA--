@@ -21,5 +21,6 @@
 - [#19 🔐 Админ отдельно](https://github.com/Kisiusis/CPA--/issues/19) — идея
 - [#20 🧾 Платёж проверяется у сервиса](https://github.com/Kisiusis/CPA--/issues/20) — идея
 - [#21 👀 Интерес к сделке](https://github.com/Kisiusis/CPA--/issues/21) — идея
+- [#23 ⬇️ Исходник: превью и скачать](https://github.com/Kisiusis/CPA--/issues/23) — идея
 
 Правила для нового чата лежат в [корневом README](../README.md).

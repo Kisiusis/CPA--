@@ -9,7 +9,7 @@
 - [#6 🛑 Остановка и возврат](https://github.com/Kisiusis/CPA--/issues/6) — идея
 - [#7 🙋 Взятие кампании](https://github.com/Kisiusis/CPA--/issues/7) — идея
 - [#8 1️⃣ Одна публикация — одна заявка](https://github.com/Kisiusis/CPA--/issues/8) — идея
-- [#9 🧩 Показы виджета](https://github.com/Kisiusis/CPA--/issues/9) — идея
+- [#9 🚫 Виджеты на сайтах](https://github.com/Kisiusis/CPA--/issues/9) — отказано
 - [#10 📱 Показы в соцсетях](https://github.com/Kisiusis/CPA--/issues/10) — идея
 - [#11 ⏭️ Очередь заявок](https://github.com/Kisiusis/CPA--/issues/11) — идея
 - [#12 ⚖️ Спор и гарант](https://github.com/Kisiusis/CPA--/issues/12) — идея
@@ -20,5 +20,6 @@
 - [#18 👆 Выплата после кнопки гаранта](https://github.com/Kisiusis/CPA--/issues/18) — идея
 - [#19 🔐 Админ отдельно](https://github.com/Kisiusis/CPA--/issues/19) — идея
 - [#20 🧾 Платёж проверяется у сервиса](https://github.com/Kisiusis/CPA--/issues/20) — идея
+- [#21 👀 Интерес к сделке](https://github.com/Kisiusis/CPA--/issues/21) — идея
 
 Правила для нового чата лежат в [корневом README](../README.md).

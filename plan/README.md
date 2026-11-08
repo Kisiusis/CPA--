@@ -1,18 +1,24 @@
-# Первый план
+# Задачи
 
-Четырнадцать задач. Полный текст каждой — в файле рядом.
+Живой список в Issues. Здесь те же тексты, чтобы их было видно в репозитории.
 
-- [Правила стадий доски](01-pravila-stadiy.md) — выполнено
-- [Как считаются деньги](02-kak-schitayutsya-dengi.md) — идея
-- [Карточка кампании и форматы](03-kartochka-kampanii.md) — идея
-- [Публикация оффера и модерация](04-publikaciya-offera.md) — идея
-- [Остановка кампании и возврат остатка](05-ostanovka-i-vozvrat.md) — идея
-- [Взятие кампании исполнителем](06-vzyatie-kampanii.md) — идея
-- [Одна публикация — одна заявка](07-odna-publikaciya.md) — идея
-- [Показы виджета и накрутка](08-pokazy-vidzheta.md) — идея
-- [Проверка показов в соцсетях](09-pokazy-socsetey.md) — идея
-- [Очередь заявок, пока бюджет не кончился](10-ochered-zayavok.md) — идея
-- [Спор и решение гаранта](11-spor-i-garant.md) — идея
-- [Вывод средств исполнителю](12-vyvod-sredstv.md) — идея
-- [Главная и лента в стиле тёмной биржи](13-glavnaya-i-lenta.md) — идея
-- [Регистрация и ограничения](14-registraciya.md) — идея
+- [#2 ✅ Правила стадий](https://github.com/Kisiusis/CPA--/issues/2) — выполнено
+- [#3 💰 Как считаются деньги](https://github.com/Kisiusis/CPA--/issues/3) — идея
+- [#4 📣 Карточка кампании](https://github.com/Kisiusis/CPA--/issues/4) — идея
+- [#5 👀 Публикация и модерация](https://github.com/Kisiusis/CPA--/issues/5) — идея
+- [#6 🛑 Остановка и возврат](https://github.com/Kisiusis/CPA--/issues/6) — идея
+- [#7 🙋 Взятие кампании](https://github.com/Kisiusis/CPA--/issues/7) — идея
+- [#8 1️⃣ Одна публикация — одна заявка](https://github.com/Kisiusis/CPA--/issues/8) — идея
+- [#9 🧩 Показы виджета](https://github.com/Kisiusis/CPA--/issues/9) — идея
+- [#10 📱 Показы в соцсетях](https://github.com/Kisiusis/CPA--/issues/10) — идея
+- [#11 ⏭️ Очередь заявок](https://github.com/Kisiusis/CPA--/issues/11) — идея
+- [#12 ⚖️ Спор и гарант](https://github.com/Kisiusis/CPA--/issues/12) — идея
+- [#13 🏧 Вывод исполнителю](https://github.com/Kisiusis/CPA--/issues/13) — идея
+- [#14 🖥️ Главная в стиле тёмной биржи](https://github.com/Kisiusis/CPA--/issues/14) — идея
+- [#15 🪪 Регистрация](https://github.com/Kisiusis/CPA--/issues/15) — идея
+- [#17 📒 Журнал денег](https://github.com/Kisiusis/CPA--/issues/17) — идея
+- [#18 👆 Выплата после кнопки гаранта](https://github.com/Kisiusis/CPA--/issues/18) — идея
+- [#19 🔐 Админ отдельно](https://github.com/Kisiusis/CPA--/issues/19) — идея
+- [#20 🧾 Платёж проверяется у сервиса](https://github.com/Kisiusis/CPA--/issues/20) — идея
+
+Правила для нового чата лежат в [корневом README](../README.md).

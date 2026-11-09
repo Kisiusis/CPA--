@@ -26,5 +26,6 @@
 - [#27 🏷️ Код сделки в подписи](https://github.com/Kisiusis/CPA--/issues/27) — идея
 - [#28 📋 Экран перед кнопкой гаранта](https://github.com/Kisiusis/CPA--/issues/28) — идея
 - [#29 🛟 Потолок и пауза для первых сделок](https://github.com/Kisiusis/CPA--/issues/29) — идея
+- [#32 🔐 Журнал входов в админку](https://github.com/Kisiusis/CPA--/issues/32) — без метки
 
 Правила для нового чата лежат в [корневом README](../README.md).
